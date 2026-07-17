@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/infer-actively/pymdp/compare/v1.0.3...v1.0.4) (2026-07-17)
+
+
+### Bug Fixes
+
+* **agent:** back Policies with a hashable tuple ([#416](https://github.com/infer-actively/pymdp/issues/416)) ([e690426](https://github.com/infer-actively/pymdp/commit/e690426181e10ab5b6713ba3114906e45146b477))
+* **maths:** eliminate cancellation error in exact parameter info-gain weight ([#415](https://github.com/infer-actively/pymdp/issues/415)) ([dec6c83](https://github.com/infer-actively/pymdp/commit/dec6c83de85eda1054489e4967e86489aadc06c9))
+
 ## [1.0.3](https://github.com/infer-actively/pymdp/compare/v1.0.2...v1.0.3) (2026-06-08)
 
 
